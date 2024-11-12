@@ -27,7 +27,7 @@ pip install -r requirements.txt
 4. Run the main script:
 
 ```
-python src/main.py
+python main.py
 ```
 
 5. Deactivate virtual environment:
